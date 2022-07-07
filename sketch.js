@@ -1,4 +1,4 @@
-//Estados do jogo     // nao estou conseguindo adicionar o som e estou com problemas para fazer as ultimas alteraçoes
+//Estados do jogo  //acho que adicionei certo o som mas nao estou ouvindo se tiver saindo
 var PLAY=1;
 var END=0;
 var gameState=1;
